@@ -1,0 +1,48 @@
+.login-wrap{
+	margin:auto;
+	max-width:100%;
+	min-height:670px;
+	position:relative;
+	background:url(https://res.cloudinary.com/hieu-kun/image/upload/v1617868327/xtl3pwhxlrcgmhrxp9m2.jpg) no-repeat center;
+	box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+}
+.login-html{
+	width:100%;
+	height:100%;
+	position:absolute;
+	padding:220px 70px 50px 70px;
+	background:rgba(39, 43, 51, 0.9);
+}
+
+
+.login-html .tab,
+.login-form .group .label,
+.login-form .group .button{
+	text-transform:uppercase;
+}
+.login-html .tab{
+	font-size:22px;
+	margin-right:15px;
+	padding-bottom:5px;
+	margin:0 15px 10px 0;
+	display:inline-block;
+	border-bottom:2px solid transparent;
+}
+
+.login-html label{
+	color:#fff;
+	border-color:#1161ee;
+}
+
+
+.hr{
+	height:2px;
+	margin:60px 0 50px 0;
+	background:rgba(255,255,255,.2);
+}
+.foot-lnk{
+	text-align:center;
+}
+
+
+

@@ -1,0 +1,38 @@
+
+.fotter-div{
+    margin-top: 30px;
+}
+
+.footer-ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    &>li{
+        padding: 4px;
+        transition: border-width 0.6s linear
+    }
+    &>li:hover{
+        color: #957bda;
+        cursor: pointer;
+        outline-width: 10px;
+    }
+}
+
+.social>i:hover {
+    color: #957bda;
+    cursor: pointer;
+    outline-width: 10px;
+}
+
+.heading {
+    font-family: 'Titillium Web', sans-serif;
+   
+    font-size: 24px;
+    color: black;
+    
+}
+
+.divider {
+    border-top: 2px solid rgba(189, 196, 203, 0.5);
+    margin: 5px 0px;
+}

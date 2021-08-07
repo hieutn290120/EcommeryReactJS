@@ -1,0 +1,26 @@
+ @media (min-width: 1200px){
+    .container {
+      width: 1100px;
+      }
+
+  }
+  
+  .text-white{
+    margin-top: 20px;
+  }
+  .text-form {
+    margin: 40px 20px;
+  }
+
+  .text-form input {
+    margin: 5px 0px;
+  }
+  .text-form button {
+    margin: 5px 0px;
+  }
+  .text-form h2 {
+    margin: 20px 0px;
+  }
+  iframe{
+    margin: 20px 0px;
+  }
